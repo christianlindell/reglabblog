@@ -14,7 +14,7 @@
 
 # ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-baseURL = "https://upbeat-elion-4488a6.netlify.com/"
+baseURL = "/"
 languageCode = "sv-se"
 defaultContentLanguage = "sv-se"
 title = "REGLAB:s R-användargrupp"
