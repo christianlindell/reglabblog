@@ -78,9 +78,15 @@ canonifyurls = true
   identifier = "Resurser"
   name = "Resurser"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-address-book\"></i>"
-  url = "pages/resurser/"  
+  url = "pages/resurser/"
 [[menu.main]]
   weight = 6
+  identifier = "Kontakt"
+  name = "Kontakt"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope\"></i>"
+  url = "pages/kontakt/" 
+[[menu.main]]
+  weight = 7
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
