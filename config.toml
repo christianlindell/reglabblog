@@ -15,7 +15,7 @@
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "sv-se"
 defaultContentLanguage = "sv-se"
 title = "REGLAB:S R-användarenätverk"
 theme = "hugo-tranquilpeak-theme"
@@ -33,7 +33,7 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-  name = "REGLAB:S R-användarenätverk"
+  name = "REGLAB:S R-användarnätverk"
   bio = "Grupp för regionala användare av programmet R med fokus på automatiserad rapportproduktion. Gruppen är kopplad till [REGLAB:s](http://www.reglab.se/) Analytikernätverk"
   #job = "Your job title"
   location = "Sverige"
