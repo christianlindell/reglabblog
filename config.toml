@@ -136,6 +136,7 @@ canonifyurls = true
   hierarchicalCategories = false
 
   description = "Hugo tranquilpeak theme demo"
+  
 
   # Customization
   # Define the behavior of the sidebar
