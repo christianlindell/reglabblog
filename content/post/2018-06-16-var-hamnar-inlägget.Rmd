@@ -10,7 +10,7 @@ tags:
 slug: var-hamnar-inlägget
 ---
 
-Den 14 juni hade REGLAB:s närverk för R-användare sitt första möte. På mötet var deltager för regionerna Skåne, Örebro och Dalarna närvarande. Från nationell nivå medverkade Tillväxtverket, som vänligt hade ställt lokaler till förfogande.
+Den 14 juni hade REGLAB:s närverk för R-användare sitt första möte. På mötet var deltager för regionerna Skåne, Örebro och Dalarna närvarande. Från nationell nivå medverkade Tillväxtverket, som vänligt nog hade ställt lokaler till förfogande.
 
 Utförligare mötesanteckningar kommer senare, men i korthet enades man om att nätverkets uppgifter skulle vara följande:
 
