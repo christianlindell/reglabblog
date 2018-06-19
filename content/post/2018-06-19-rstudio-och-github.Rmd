@@ -43,7 +43,7 @@ I kapitel 10 skapar du ett projekt på GitHub och provar att ladda hem det till 
 
 Git är ett väldigt omfattande program, men grunderna går relativt lätt att lära. Jag rekommenderar alla att skumma igenom Jenny Bryan bok. Svaret på de flesta nybörjarfrågor finns där.
 
-Om du laddar upp filer till GitHub så tänk på att att allt som du lägger i katalogen som är kopplad till GitHub kommer att laddas upp till GitHub där vem som helst kan läsa filerna. Du kan undvika att känslig data laddas upp på GitHub genom att lägga till fil- eller katalognamnet i filen .gitignore. Läs mer i Jenny Brians bok!
+Om du laddar upp filer till GitHub så tänk på att att allt som du lägger i katalogen som är kopplad till GitHub kommer att laddas upp till GitHub där vem som helst kan läsa filerna. Du kan undvika att känslig data laddas upp på GitHub genom att lägga till fil- eller katalognamnet i filen .gitignore. Läs mer i Jenny Brians bok! 
 
 
 
