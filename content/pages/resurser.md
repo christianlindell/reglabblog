@@ -2,13 +2,12 @@
 title: "Resurser"
 categories:
 - resurser
-- subcategory
 tags:
 - rapporter
 - github
 - bloggar
 keywords:
-- tech
+- kontakt
 comments:       false
 showMeta:       false
 showActions:    false
