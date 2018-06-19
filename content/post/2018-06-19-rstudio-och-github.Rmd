@@ -1,0 +1,52 @@
+---
+title: RStudio och Git/GitHub
+author: Christian Lindell
+date: '2018-06-19'
+categories:
+  - R
+tags:
+  - github
+  - Git
+  - RStudio
+slug: rstudio-och-github
+---
+
+Vid nätverksmötet kom vi fram till att det bästa sättet att dela kod är om var och en lägger upp ett eget konto på GitHub. Vi anser inte att vi har resurser för att administrera ett centralt konto. [GitHub](https://github.com/) har stora fördelar jämfört med andra lösningar:
+
+* Det är lätt att ladda hem kod
+* Det finns versionshantering
+* Det går att hantera att flera användare arbetar med samma kod
+
+Samtidigt är Git/GitHub ganska krångligt att komma igång med. En av de bästa översiktliga resurserna för att starta med Git/GiHub är Jenny Brians [Happy Git and GitHub for the useR](http://happygitwithr.com/).
+
+Jag själv installerade nyligen Git på min PC med Windows 10, vilket gick relativt smärtfritt.
+
+Jag följde följande steg:
+
+Ladda hem och installera [Git](https://git-scm.com/downloads).
+
+Öppna terminalen som installerats med Git vid namn "Git Bash" och skriv in:
+
+git config --global user.name 'Förnamn Efternamn'
+git config --global user.email 'namn@adress.se'
+git config --global --list
+
+(terminalen kan stängas med "exit")
+
+Aktivera att Windows sparar användarnamn och lösenord för GitHub när du loggar in:
+
+git config --global credential.helper wincred
+
+Gå till kapitel 10 i Jenny Brians bok och följ instruktionerna. Jag förutsätter att du installerat R och RStudio och redan har installerat Git enligt instruktionerna ovan.
+
+I kapitel 10 skapar du ett projekt på GitHub och provar att ladda hem det till din egen dator och sedan ladda upp ändringar till GitHub. I kapitel 13 gör du motsvarande uppgifter, men med RStudio.
+
+Git är ett väldigt omfattande program, men grunderna går relativt lätt att lära. Jag rekommenderar alla att skumma igenom Jenny Bryan bok. Svaret på de flesta nybörjarfrågor finns där.
+
+Om du laddar upp filer till GitHub så tänk på att att allt som du lägger i katalogen som är kopplad till GitHub kommer att laddas upp till GitHub där vem som helst kan läsa filerna. Du kan undvika att känslig data laddas upp på GitHub genom att lägga till fil- eller katalognamnet i filen .gitignore. Läs mer i Jenny Brians bok!
+
+
+
+
+
+
