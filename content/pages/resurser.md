@@ -1,17 +1,16 @@
 ---
-title: "Resurser"
+title: Resurser
+author: ''
+date: '2018-06-19'
 categories:
-- resurser
+  - resurser
 tags:
-- rapporter
-- github
-- bloggar
-keywords:
-- kontakt
-comments:       false
-showMeta:       false
-showActions:    false
-#thumbnailImage: //example.com/image.jpg
+  - bloggar
+  - github
+  - rapporter
+comments: no
+showMeta: no
+showActions: no
 ---
 
 
