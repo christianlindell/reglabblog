@@ -1,12 +1,26 @@
 ---
-title: Var hamnar inlägget?
-author: CL
+title: Första mötet med användarenätverket
+author: Christian LIndell
 date: '2018-06-16'
 categories:
   - R
+  - nätverksmöte
 tags:
   - R
 slug: var-hamnar-inlägget
 ---
 
-test
+Den 14 juni hade REGLAB:s närverk för R-användare sitt första möte. På mötet var deltager för regionerna Skåne, Örebro och Dalarna närvarande. Från nationell nivå medverkade Tillväxtverket, som vänligt hade ställt lokaler till förfogande.
+
+Utförligare mötesanteckningar kommer senare, men i korthet enades man om att nätverkets uppgifter skulle vara följande:
+
+* Dela med sig av kod och kunnande
+* Starta en mailinglista för frågor
+* Dela på arbetsuppgifter
+
+Deltagarna enades om att det skulle bli för mycket jobb med att administrera ett gemensamt GitHub-konto, men deltagarna uppmuntrades att starta egna konton på GitHub.
+
+Kontaktpersoner är för närvarande [Peter Möller, Region Dalarna](mailto:peter.moller@regiondalarna.se) och [Christian Lindell, Region Skåne](mailto:christian.lindell@skane.se)
+
+
+
