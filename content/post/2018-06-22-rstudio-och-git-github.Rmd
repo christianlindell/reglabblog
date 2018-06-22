@@ -1,21 +1,21 @@
 ---
 title: RStudio och Git/GitHub
 author: Christian Lindell
-date: '2018-06-19'
+date: '2018-06-22'
+slug: rstudio-och-git-github
 categories:
   - R
 tags:
-  - github
   - Git
-  - RStudio
-slug: rstudio-och-github
+  - github
 ---
+
 
 Vid nätverksmötet kom vi fram till att det bästa sättet att dela kod är om var och en lägger upp ett eget konto på GitHub. Vi anser inte att vi har resurser för att administrera ett centralt konto. [GitHub](https://github.com/) har stora fördelar jämfört med andra lösningar:
 
 * Det är lätt att ladda hem kod
 * Det finns versionshantering
-* Det går att hantera att flera användare arbetar med samma kod
+* Det går att hantera att flera användare arbetar med samma kod 
 
 Samtidigt är Git/GitHub ganska krångligt att komma igång med. En av de bästa översiktliga resurserna för att starta med Git/GiHub är Jenny Bryans [Happy Git and GitHub for the useR](http://happygitwithr.com/).
 
